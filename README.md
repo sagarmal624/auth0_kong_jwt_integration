@@ -24,6 +24,7 @@ curl -i -X POST http://192.168.99.100:9001/consumers/user123/jwt \
 
 ```
 ## Step-6: Now Access your Service
+![alt text](https://raw.githubusercontent.com/sagarmal624/auth0_kong_jwt_integration/master/4.PNG)
 ![alt text](https://raw.githubusercontent.com/sagarmal624/auth0_kong_jwt_integration/master/3.png)
 
 
